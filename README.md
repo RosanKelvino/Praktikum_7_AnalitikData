@@ -153,6 +153,6 @@ Perubahan (%) = (baseline − optimasi) ÷ baseline × 100%; speedup = baseline 
 
 ## Lampiran
 
-- Repositori: **[isi tautan GitHub]**
+- Repositori: **[https://github.com/RosanKelvino/Praktikum_7_AnalitikData/tree/main]**
 - Berkas bukti: `hasil/run1`, `hasil/run2`, `hasil/run3` (`quality.json`, `benchmarks.csv`, `partition_sizes.csv`, `plan_*.txt`).
 - Screenshot Spark UI, MinIO, dan terminal ada pada laporan Word (`Laporan_Milestone_2a.docx`).
